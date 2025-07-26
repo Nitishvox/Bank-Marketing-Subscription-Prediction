@@ -1,3 +1,5 @@
+
+![Bank Marketing](https://media.licdn.com/dms/image/v2/C4E12AQGyUGK7U54nWw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1580024684661?e=2147483647&v=beta&t=ap0Ub9Q0M6oybl3a5NjHDYq0lN4UPKv2D61Zc4PL-s4)
 # Bank-Marketing-Subscription-Prediction
 
 Predicting term deposit subscriptions using a Decision Tree classifier on bank customer data.  
